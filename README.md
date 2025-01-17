@@ -8,3 +8,9 @@ Finally we will deploy the model on mobile devices using TensorFlow Lite and che
 <p align="center">
 <img src="Solution_flowchart.png" width="450" height="480">
 </p>
+
+# Model Flow
+<p align="center">
+<img src="model_flow.jpeg" width="450" height="250">
+</p>
+
